@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAHiXV7ElzBYJUiEkUg5d6frUFOA0cgc2PfBQyfYRKNxF1te7e2cnCYz0FGne/Gl5uWmPMQk3Du+nZj18zNqmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikas\\Desktop\\Projects\\Keylogger\\Keylogger\\Keylogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikas\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.6\\microsoft.netcore.app.host.win-arm64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
